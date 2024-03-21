@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There👋%20I'm%20Malaheaven!&fontSize=50)
 
 <!--
 **malaheaven/malaheaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
